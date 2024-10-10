@@ -4,16 +4,14 @@ Welcome to my repository! Below is a list of my React.js projects along with the
 
 ## Projects
 
-1. **Project Name 1**  
-   [Live Demo](https://link-to-your-project-1.com)  
-   A brief description of Project Name 1, highlighting its features and functionality.
+1. **Nike Shoes Website Landing Page**  
+   [Live Demo](  https://vercel.live/link/nike-website-landing-page-blond.vercel.app?via=deployment-domains-list&p=1  )
+   A landing page of Nike shoes, built with React.js and styled using
+   Tailwind CSS.user-friendly interface, and responsive layout.
 
-2. **Project Name 2**  
-   [Live Demo](https://link-to-your-project-2.com)  
-   A brief description of Project Name 2, highlighting its features and functionality.
 
-3. **Project Name 3**  
-   [Live Demo](https://link-to-your-project-3.com)  
-   A brief description of Project Name 3, highlighting its features and functionality.
+2. **Todo App**  
+   [Live Demo](https://vercel.live/link/todo-app-two-liart-17.vercel.app?via=deployment-domains-list&p=1)  
+   A simple and interactive Todo app that allows users to add, edit, and delete tasks.
 
 
