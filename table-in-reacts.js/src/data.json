@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Mohsin Ali",
+    "ClassTimeing": "9:00 AM - 11:00 AM",
+    "Course": "Web & App development"
+  },
+  {
+    "id": 2,
+    "name": "Yasir Raza",
+    "ClassTimeing": "11:00 AM - 01:00 PM",
+    "Course": "Web & App development"
+  },
+  {
+    "id": 3,
+    "name": "Saqlain Ali",
+    "ClassTimeing": "01:00 PM - 03:00 PM",
+    "Course": "Web & App development"
+  },
+  {
+    "id": 4,
+    "name": "Kumail Raza",
+    "ClassTimeing": "03:00 PM - 05:00 PM",
+    "Course": "Web & App development"
+  },
+  {
+    "id": 5,
+    "name": "Mudasir Ali",
+    "ClassTimeing": "05:00 PM - 07:00 PM",
+    "Course": "Web & App development"
+  }
+]
