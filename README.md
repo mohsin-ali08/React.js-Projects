@@ -6,7 +6,6 @@ Welcome to my repository! Below is a list of my React.js projects along with the
 
 1. **Nike Shoes Website Landing Page**  
    [Live Demo](  https://vercel.live/link/nike-website-landing-page-blond.vercel.app?via=deployment-domains-list&p=1  )
-
     A landing page of Nike shoes, built with React.js and styled using Tailwind CSS.user-friendly interface, and responsive layout.
 
 
