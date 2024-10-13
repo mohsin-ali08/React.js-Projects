@@ -20,3 +20,7 @@ Welcome to my repository! Below is a list of my React.js projects along with the
 4. **Quiz App**  
    [Live Demo]( https://vercel.live/link/quiz-app-ui-ivory.vercel.app?via=project-dashboard-alias-list&p=1)  
    A simple assignment project given by my teacher for practice. This project helps reinforce my understanding of React.js and Tailwind css.
+
+5. **E-commerce Website**  
+   [Live Demo]( https://vercel.live/link/quiz-app-ui-ivory.vercel.app?via=project-dashboard-alias-list&p=1)  
+   Responsive e-commerce website built using React and Tailwind CSS, with data fetched from the Fake Store API.
