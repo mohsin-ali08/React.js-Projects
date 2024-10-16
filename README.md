@@ -27,6 +27,6 @@ Welcome to my collection of React projects! This repository showcases various ap
    Responsive E-commerce website built using React and Tailwind CSS, with data fetched from the Fake Store API.
 
 6. **Developer Registration Form:**  
-   [Live Demo](https://simple-ecommerce-omega.vercel.app/)  
+   [Live Demo](https://registration-form-mauve-pi.vercel.app/)  
    A responsive registration form for developers that features input validation, modal notifications, and visually appealing design.
     This project also includes functionality to send registration data to an API, showcasing my ability to handle backend interactions seamlessly.
