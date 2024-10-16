@@ -1,6 +1,7 @@
 # My React.js Projects
 
-Welcome to my repository! Below is a list of my React.js projects along with their hosted links. Feel free to explore and provide feedback!
+Welcome to my collection of React projects! This repository showcases various applications built with React.js, demonstrating my skills in frontend development. Each project is designed to provide unique functionalities and user experiences, utilizing modern tools and libraries.
+
 
 ## Projects
 
@@ -24,3 +25,8 @@ Welcome to my repository! Below is a list of my React.js projects along with the
 5. **E-commerce Website**  
    [Live Demo](https://simple-ecommerce-omega.vercel.app/)  
    Responsive E-commerce website built using React and Tailwind CSS, with data fetched from the Fake Store API.
+
+6. **Developer Registration Form:**  
+   [Live Demo](https://simple-ecommerce-omega.vercel.app/)  
+   A responsive registration form for developers that features input validation, modal notifications, and visually appealing design.
+    This project also includes functionality to send registration data to an API, showcasing my ability to handle backend interactions seamlessly.
